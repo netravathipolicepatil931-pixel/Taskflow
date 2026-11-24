@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A minimalist personal productivity, calendar scheduling, and task management application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
